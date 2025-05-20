@@ -7,7 +7,7 @@ function App() {
     const saved = localStorage.getItem('tasks');
     return saved ? JSON.parse(saved) : [];
   });
-
+///empty
   const [input, setInput] = useState('');
 
   useEffect(() => {
