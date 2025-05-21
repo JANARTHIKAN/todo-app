@@ -224,6 +224,12 @@ git reset --hard HEAD~1     # Discard changes
   ```
 
 ---
+<section class="section">
+  <h2>📸 Sample Output</h2>
+  <p>Here's a visual output of the Git commands or workflow from the terminal:</p>
+  <img src="https://github.com/user-attachments/assets/3f85d5d2-efc0-4710-8614-2a97acd5fa5e" alt="Git Output Screenshot">
+</section>
+
 
 ## 📌 Final Thoughts
 
